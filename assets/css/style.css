@@ -1758,3 +1758,14 @@ p.form-message.success, p.form-message.error {
       cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/*custom*/
+
+
+.work-image {
+    height: 360px;
+    overflow: hidden;
+    width: 360px;
+}
